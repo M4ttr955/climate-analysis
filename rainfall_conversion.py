@@ -3,4 +3,4 @@
 
 """ Some additions """
 
-# ToDo: Dev A needs to create a function
+# ToDo: Hire a new developer
